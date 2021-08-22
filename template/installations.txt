@@ -1,0 +1,29 @@
+// handling react forms
+npm i formik
+
+npm i yup
+
+// for interacting with the api
+npm i axios
+
+// for navigation
+npm install @react-navigation/native
+
+npm install @react-navigation/stack
+
+npm install @react-navigation/drawer
+
+npm install @react-navigation/bottom-tabs
+
+expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context
+
+npm install react-native-elements
+
+// using svg
+npm i react-native-svg
+npm i react-native-svg-transformer
+// the metro.config.js file was added to the above effect
+// also added packagerOpts to the app.json file
+// Link to tutorial below
+https://www.youtube.com/watch?v=2mCu2ekFc3Y
+

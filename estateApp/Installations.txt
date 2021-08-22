@@ -1,0 +1,8 @@
+npm i formik
+
+npm i yup
+
+npm i axios
+
+nmp i apisauce
+

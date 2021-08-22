@@ -1,0 +1,1 @@
+export default "https://estatemanager.technezz.com/assets/images/uploads/"
